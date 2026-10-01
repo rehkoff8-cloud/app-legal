@@ -1,4 +1,5 @@
-
+---
+---
 # Privacy Policy
 
 **Sure2Take** (the "app")
