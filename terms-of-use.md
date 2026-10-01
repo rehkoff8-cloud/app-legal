@@ -44,9 +44,9 @@ Prices are in U.S. dollars and may differ by country and include taxes where req
 * Payment is charged to your Apple ID account when you confirm your purchase.
 * Your subscription renews automatically unless you cancel at least 24 hours before the end of the current period.
 * Your account is charged for renewal within 24 hours before the end of the current period.
-* You can cancel anytime. To manage or cancel, open your iPhone **Settings**, tap your name, then **Subscriptions**. Cancelling stops future renewals. You keep access until the end of the period you already paid for.
+* You can cancel anytime. To manage or cancel, open your iPhone **Settings**, tap your name, then **Subscriptions**. Canceling stops future renewals. You keep access until the end of the period you already paid for.
 * Payments and refunds are handled by Apple. To request a refund, use Apple's "Report a Problem" process. We cannot issue refunds for App Store purchases ourselves.
-* We may change prices. If we do, we will tell you in advance, and the change applies only at your next renewal after notice. The app requires an active subscription to use. There is no free trial.: what is free and what needs the subscription, and whether there is a free trial
+* We may change prices. If we do, we will tell you in advance, and the change will apply only to your next renewal after notice. The app requires an active subscription to use. There is no free trial.
 
 
 
@@ -60,15 +60,15 @@ You own the information you enter. You give us permission to store and process i
 
 ## 9\. Disclaimer of warranties
 
-The app is provided "as is" and "as available," without warranties of any kind, to the fullest extent the law allows. We do not promise that the app will be uninterrupted, error-free, or that reminders will always arrive.
+The app is provided "as is" and "as available," without warranties of any kind, to the fullest extent permitted by law. We do not promise that the app will be uninterrupted, error-free, or that reminders will always arrive.
 
 ## 10\. Limitation of liability
 
-To the fullest extent the law allows, we are not liable for indirect, incidental, special, or consequential damages, or for any harm from missed, delayed, or incorrect reminders or from health decisions you make. Our total liability for any claim is limited to the amount you paid us in the 12 months before the claim, or $50 if you paid nothing. Some places do not allow these limits, so they may not apply to you.
+To the fullest extent the law allows, we are not liable for indirect, incidental, special, or consequential damages, or for any harm from missed, delayed, or incorrect reminders or from health decisions you make. Our total liability for any claim is limited to the amount you paid us in the 12 months before the claim or $50 if you paid nothing. Some places do not allow these limits, so they may not apply to you.
 
 ## 11\. Ending your use
 
-You can stop using the app and delete your account at any time. We may suspend or end access if you break these terms or if we discontinue the app. If we discontinue the app, we will give you reasonable notice and a chance to export your information where practical.
+You can stop using the app and delete your account at any time. We may suspend or end access if you break these terms or if we discontinue the app. If we discontinue the app, we will give you reasonable notice and, where practical, a chance to export your information.
 
 ## 12\. Governing law
 
