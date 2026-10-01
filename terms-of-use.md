@@ -1,7 +1,5 @@
-\---
-
-\---
-
+---
+---
 # Terms of Use
 
 **Sure2Take** (the "app")
